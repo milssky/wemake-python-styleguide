@@ -22,6 +22,7 @@ Semantic versioning in our case means:
 ### Features
 
 - Adds `WPS481`: for statement not allowed in class and module scopes, #3520
+- Fixes false positive `WPS412` with docstring and imports in `__init__.py` #3569
 
 
 ## 1.5.0
